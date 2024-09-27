@@ -1,0 +1,7 @@
+-R . NameSets
+-arg -w
+-arg all
+Definitions.v
+IncreasingNameLists.v
+Facts.v
+
